@@ -1,0 +1,27 @@
+\BOOKMARK [1][-]{section.1}{Aims}{}% 1
+\BOOKMARK [1][-]{section.2}{Summary of Theory}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Sudoku}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Backtracking}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Our Algorithm}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Complexity Analysis}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Experimental Methodology}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Implementation}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Measurement Details}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{List of Experiments}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Best Case}{subsection.3.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Worst Case}{subsection.3.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Average Case}{subsection.3.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Boards}{subsection.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.5}{Board Generation}{subsection.3.3}% 15
+\BOOKMARK [1][-]{section.4}{Presentation of results}{}% 16
+\BOOKMARK [2][-]{subsection.4.1}{Best Case}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.2}{Worst Case}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.3}{Average Case}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.4}{Combining the Graphs}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.5}{Split by case}{section.4}% 21
+\BOOKMARK [2][-]{subsection.4.6}{Boards}{section.4}% 22
+\BOOKMARK [2][-]{subsection.4.7}{Statistical analysis}{section.4}% 23
+\BOOKMARK [1][-]{section.5}{Interpretation of results}{}% 24
+\BOOKMARK [1][-]{section.6}{Relate results to theory}{}% 25
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 26
+\BOOKMARK [1][-]{section.8}{Appendix A - Regression Details}{}% 27

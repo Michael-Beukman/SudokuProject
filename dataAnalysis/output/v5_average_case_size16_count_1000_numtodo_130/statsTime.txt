@@ -1,0 +1,8 @@
+
+Slope=1                
+Intercept=0.06459003164782576                
+R value=0
+P value=0
+Standard Error=0.00034356810435302816
+
+Equation=> y = $exp(intercept * x)

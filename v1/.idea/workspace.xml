@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7533da29-ca1f-457d-9ce2-e0be34768d9e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../text/v3.fdb_latexmk" beforeDir="false" afterPath="$PROJECT_DIR$/../text/v3.fdb_latexmk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hiNi317cFcq7WmsMNh5ez0sXM5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Test" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FinalExperiments">
+    <configuration name="Experiments" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.experiments.Experiments" />
+      <module name="v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.experiments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentsProper" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.experiments.ExperimentsProper" />
+      <module name="v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.experiments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalExperiments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.experiments.FinalExperiments" />
+      <module name="v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.experiments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakePuzzles" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.experiments.MakePuzzles" />
+      <module name="v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.experiments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SudokoBoardGenTest.testGetBoardLarge" type="JUnit" factoryName="JUnit" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="v1" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.SudokoBoardGenTest" />
+      <option name="METHOD_NAME" value="testGetBoardLarge" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Experiments" />
+      <item itemvalue="Application.MakePuzzles" />
+      <item itemvalue="Application.ExperimentsProper" />
+      <item itemvalue="Application.FinalExperiments" />
+      <item itemvalue="JUnit.SudokoBoardGenTest.testGetBoardLarge" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FinalExperiments" />
+        <item itemvalue="Application.ExperimentsProper" />
+        <item itemvalue="Application.MakePuzzles" />
+        <item itemvalue="JUnit.SudokoBoardGenTest.testGetBoardLarge" />
+        <item itemvalue="Application.Experiments" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7533da29-ca1f-457d-9ce2-e0be34768d9e" name="Default Changelist" comment="" />
+      <created>1600490075640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600490075640</updated>
+      <workItem from="1600490077270" duration="1307000" />
+      <workItem from="1600498828814" duration="2642000" />
+      <workItem from="1600578652787" duration="2174000" />
+      <workItem from="1600580888538" duration="149000" />
+      <workItem from="1600587773468" duration="9634000" />
+      <workItem from="1600664334783" duration="3908000" />
+      <workItem from="1600853248051" duration="8953000" />
+      <workItem from="1600934496873" duration="6565000" />
+      <workItem from="1601005021880" duration="1249000" />
+      <workItem from="1601041325293" duration="10000" />
+      <workItem from="1601048681289" duration="5958000" />
+      <workItem from="1601090327932" duration="3351000" />
+      <workItem from="1601100294361" duration="6589000" />
+      <workItem from="1601178228656" duration="22383000" />
+      <workItem from="1601272550506" duration="25000" />
+      <workItem from="1601349704292" duration="3841000" />
+      <workItem from="1601791637690" duration="18000" />
+      <workItem from="1602068961665" duration="2739000" />
+      <workItem from="1602143563208" duration="1619000" />
+      <workItem from="1602217081949" duration="2285000" />
+      <workItem from="1602301945377" duration="63000" />
+      <workItem from="1602333869095" duration="1206000" />
+      <workItem from="1602475115480" duration="5092000" />
+      <workItem from="1602598391208" duration="3000" />
+      <workItem from="1602642367253" duration="5571000" />
+      <workItem from="1602733087516" duration="1728000" />
+      <workItem from="1602741336789" duration="2904000" />
+      <workItem from="1602928079406" duration="71000" />
+      <workItem from="1603515163307" duration="1632000" />
+      <workItem from="1603535455921" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601179025528">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="744" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1601179025528" />
+    <state x="1011" y="541" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601091982769">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1011" y="541" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1601091982769" />
+    <state x="1093" y="454" key="#com.intellij.ide.util.MemberChooser" timestamp="1601049741059">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1093" y="454" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1601049741059" />
+    <state x="1018" y="498" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1600499540790">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1018" y="498" key="#com.intellij.ide.util.PackageChooserDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1600499540790" />
+    <state width="2518" height="452" key="GridCell.Tab.0.bottom" timestamp="1602744243837">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="452" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1602744243837" />
+    <state width="2518" height="452" key="GridCell.Tab.0.center" timestamp="1602744243836">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="452" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1602744243836" />
+    <state width="2518" height="452" key="GridCell.Tab.0.left" timestamp="1602744243836">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="452" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1602744243836" />
+    <state width="2518" height="452" key="GridCell.Tab.0.right" timestamp="1602744243836">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="452" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1602744243836" />
+    <state width="2518" height="581" key="GridCell.Tab.1.bottom" timestamp="1601055003469">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="581" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1601055003469" />
+    <state width="2518" height="581" key="GridCell.Tab.1.center" timestamp="1601055003468">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="581" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1601055003468" />
+    <state width="2518" height="581" key="GridCell.Tab.1.left" timestamp="1601055003467">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="581" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1601055003467" />
+    <state width="2518" height="581" key="GridCell.Tab.1.right" timestamp="1601055003468">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="2518" height="581" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1601055003468" />
+    <state x="768" y="313" key="SettingsEditor" timestamp="1600499966962">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="768" y="313" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1600499966962" />
+    <state x="957" y="564" key="com.intellij.ide.util.TipDialog" timestamp="1603535461164">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="957" y="564" key="com.intellij.ide.util.TipDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1603535461164" />
+    <state x="984" y="632" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600499324956">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="984" y="632" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.2560.1417@0.23.2560.1417" timestamp="1600499324956" />
+    <state x="1059" y="465" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1600589186982">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1059" y="465" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1600589186982" />
+    <state x="938" y="488" width="837" height="550" key="find.popup" timestamp="1603521124656">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="938" y="488" width="837" height="550" key="find.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1603521124656" />
+    <state x="1042" y="354" key="refactoring.ChangeSignatureDialog" timestamp="1600588339898">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1042" y="354" key="refactoring.ChangeSignatureDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1600588339898" />
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1603521041944">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417@0.23.2560.1417" timestamp="1603521041944" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/experiments/Experiments.java</url>
+          <line>385</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+
+Slope=0.2572071428571428                
+Intercept=16.305883333333334                
+R value=0.8722698118260424
+P value=2.2312925479597356e-05
+Standard Error=0.03999369221915846
+
+Equation=> y = $Slope * x + intercept

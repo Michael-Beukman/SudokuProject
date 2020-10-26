@@ -1,0 +1,8 @@
+
+Slope=0.3251917225429209                
+Intercept=566.0233526312367                
+R value=0.8144907170276495
+P value=0.013821969545563199
+Standard Error=0.09456663097042378
+
+Equation=> y = $Slope * 4^x + intercept

@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Aims}{2}{section.1}
+\contentsline {section}{\numberline {2}Summary of Theory}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Sudoku}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Backtracking}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Our Algorithm}{5}{subsection.2.3}
+\contentsline {paragraph}{\numberline {2.3.0.1}Proof of correctness}{6}{paragraph.2.3.0.1}
+\contentsline {subsection}{\numberline {2.4}Complexity Analysis}{7}{subsection.2.4}
+\contentsline {section}{\numberline {3}Experimental Methodology}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Implementation}{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Measurement Details}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}List of Experiments}{11}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Best Case}{11}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Worst Case}{11}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Average Case}{11}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Boards}{11}{subsubsection.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.5}Board Generation}{12}{subsubsection.3.3.5}
+\contentsline {section}{\numberline {4}Presentation of results}{12}{section.4}
+\contentsline {subsection}{\numberline {4.1}Best Case}{13}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Worst Case}{14}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Average Case}{15}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Combining the Graphs}{16}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Split by case}{17}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Boards}{18}{subsection.4.6}
+\contentsline {paragraph}{\numberline {4.6.0.1}Single graphs}{21}{paragraph.4.6.0.1}
+\contentsline {subsection}{\numberline {4.7}Statistical analysis}{21}{subsection.4.7}
+\contentsline {section}{\numberline {5}Interpretation of results}{22}{section.5}
+\contentsline {section}{\numberline {6}Relate results to theory}{23}{section.6}
+\contentsline {section}{\numberline {7}Conclusion}{23}{section.7}
+\contentsline {section}{\numberline {8}Appendix A - Regression Details}{24}{section.8}

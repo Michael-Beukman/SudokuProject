@@ -1,0 +1,8 @@
+
+Slope=0.08168947330923425                
+Intercept=1481625.6900505284                
+R value=0.9048449350222822
+P value=0.00200315655749916
+Standard Error=0.01569141396192518
+
+Equation=> y = $Slope * 16^x + intercept

@@ -1,0 +1,423 @@
+PWD /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.tex
+OUTPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.log
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mathtools.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/mathtools/mhsetup.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/subfig/subfig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/subfig/subfig.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/trimclip.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/trimclip.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/collectbox/collectbox.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/collectbox/collectbox.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/varwidth/varwidth.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/varwidth/varwidth.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/varwidth/varwidth.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/placeins/placeins.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/placeins/placeins.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/alphalph.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/alphalph.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/intcalc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/intcalc.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.aux
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.aux
+OUTPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.aux
+INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.out
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.out
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.out
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.out
+OUTPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.pdf
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.out
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.out
+OUTPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.out
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.toc
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.toc
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+OUTPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.toc
+INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../text/images/200px-Sudoku-by-L2G-20050714.png
+INPUT ../text/images/200px-Sudoku-by-L2G-20050714.png
+INPUT ../text/images/200px-Sudoku-by-L2G-20050714.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../text/images/SudokuTreeImage.png
+INPUT ../text/images/SudokuTreeImage.png
+INPUT ../text/images/SudokuTreeImage.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../text/images/SudokuTreeLegend.png
+INPUT ../text/images/SudokuTreeLegend.png
+INPUT ../text/images/SudokuTreeLegend.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../text/images/maze.png
+INPUT ../text/images/maze.png
+INPUT ../text/images/maze.png
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v1.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v1.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v1_best_case_size4_count_1000/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size4_count_1000/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size4_count_1000/BasicOperations_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v1_best_case_size9_count_1000/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size9_count_1000/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size9_count_1000/BasicOperations_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v1_best_case_size16_count_1000/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size16_count_1000/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size16_count_1000/BasicOperations_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v1_best_case_size4_count_1000/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size4_count_1000/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size4_count_1000/RecursionCount_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v1_best_case_size9_count_1000/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size9_count_1000/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size9_count_1000/RecursionCount_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v1_best_case_size16_count_1000/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size16_count_1000/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size16_count_1000/RecursionCount_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v1_best_case_size4_count_1000/Time_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size4_count_1000/Time_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size4_count_1000/Time_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v1_best_case_size9_count_1000/Time_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size9_count_1000/Time_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size9_count_1000/Time_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v1_best_case_size16_count_1000/Time_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size16_count_1000/Time_linear.png
+INPUT ../dataAnalysis/output/v1_best_case_size16_count_1000/Time_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v2.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v2.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v2_worst_case_size4_count_1000_numtodo_9/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size4_count_1000_numtodo_9/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size4_count_1000_numtodo_9/BasicOperations_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v2_worst_case_size9_count_1000_numtodo_9/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size9_count_1000_numtodo_9/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size9_count_1000_numtodo_9/BasicOperations_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v2_worst_case_size16_count_1000_numtodo_9/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size16_count_1000_numtodo_9/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size16_count_1000_numtodo_9/BasicOperations_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v2_worst_case_size4_count_1000_numtodo_9/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size4_count_1000_numtodo_9/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size4_count_1000_numtodo_9/RecursionCount_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v2_worst_case_size9_count_1000_numtodo_9/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size9_count_1000_numtodo_9/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size9_count_1000_numtodo_9/RecursionCount_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v2_worst_case_size16_count_1000_numtodo_9/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size16_count_1000_numtodo_9/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size16_count_1000_numtodo_9/RecursionCount_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v2_worst_case_size4_count_1000_numtodo_9/Time_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size4_count_1000_numtodo_9/Time_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size4_count_1000_numtodo_9/Time_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v2_worst_case_size9_count_1000_numtodo_9/Time_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size9_count_1000_numtodo_9/Time_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size9_count_1000_numtodo_9/Time_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v2_worst_case_size16_count_1000_numtodo_9/Time_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size16_count_1000_numtodo_9/Time_linear.png
+INPUT ../dataAnalysis/output/v2_worst_case_size16_count_1000_numtodo_9/Time_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v3.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v3.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5_average_case_size4_count_1000_numtodo_15/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size4_count_1000_numtodo_15/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size4_count_1000_numtodo_15/BasicOperations_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5_average_case_size9_count_1000_numtodo_70/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size9_count_1000_numtodo_70/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size9_count_1000_numtodo_70/BasicOperations_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5_average_case_size16_count_1000_numtodo_130/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size16_count_1000_numtodo_130/BasicOperations_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size16_count_1000_numtodo_130/BasicOperations_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5_average_case_size4_count_1000_numtodo_15/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size4_count_1000_numtodo_15/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size4_count_1000_numtodo_15/RecursionCount_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5_average_case_size9_count_1000_numtodo_70/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size9_count_1000_numtodo_70/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size9_count_1000_numtodo_70/RecursionCount_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5_average_case_size16_count_1000_numtodo_130/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size16_count_1000_numtodo_130/RecursionCount_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size16_count_1000_numtodo_130/RecursionCount_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5_average_case_size4_count_1000_numtodo_15/Time_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size4_count_1000_numtodo_15/Time_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size4_count_1000_numtodo_15/Time_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5_average_case_size9_count_1000_numtodo_70/Time_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size9_count_1000_numtodo_70/Time_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size9_count_1000_numtodo_70/Time_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5_average_case_size16_count_1000_numtodo_130/Time_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size16_count_1000_numtodo_130/Time_linear.png
+INPUT ../dataAnalysis/output/v5_average_case_size16_count_1000_numtodo_130/Time_linear.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v6.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v6.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v6/all_BasicOperations.png
+INPUT ../dataAnalysis/output/v6/all_BasicOperations.png
+INPUT ../dataAnalysis/output/v6/all_BasicOperations.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v6/all_RecursionCount.png
+INPUT ../dataAnalysis/output/v6/all_RecursionCount.png
+INPUT ../dataAnalysis/output/v6/all_RecursionCount.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v6/all_Time.png
+INPUT ../dataAnalysis/output/v6/all_Time.png
+INPUT ../dataAnalysis/output/v6/all_Time.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v5.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v5.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5/bestCase/BasicOperations.png
+INPUT ../dataAnalysis/output/v5/bestCase/BasicOperations.png
+INPUT ../dataAnalysis/output/v5/bestCase/BasicOperations.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5/bestCase/RecursionCount.png
+INPUT ../dataAnalysis/output/v5/bestCase/RecursionCount.png
+INPUT ../dataAnalysis/output/v5/bestCase/RecursionCount.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5/bestCase/Time.png
+INPUT ../dataAnalysis/output/v5/bestCase/Time.png
+INPUT ../dataAnalysis/output/v5/bestCase/Time.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5/averageCase/BasicOperations.png
+INPUT ../dataAnalysis/output/v5/averageCase/BasicOperations.png
+INPUT ../dataAnalysis/output/v5/averageCase/BasicOperations.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5/averageCase/RecursionCount.png
+INPUT ../dataAnalysis/output/v5/averageCase/RecursionCount.png
+INPUT ../dataAnalysis/output/v5/averageCase/RecursionCount.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5/averageCase/Time.png
+INPUT ../dataAnalysis/output/v5/averageCase/Time.png
+INPUT ../dataAnalysis/output/v5/averageCase/Time.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5/worstCase/BasicOperations.png
+INPUT ../dataAnalysis/output/v5/worstCase/BasicOperations.png
+INPUT ../dataAnalysis/output/v5/worstCase/BasicOperations.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5/worstCase/RecursionCount.png
+INPUT ../dataAnalysis/output/v5/worstCase/RecursionCount.png
+INPUT ../dataAnalysis/output/v5/worstCase/RecursionCount.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v5/worstCase/Time.png
+INPUT ../dataAnalysis/output/v5/worstCase/Time.png
+INPUT ../dataAnalysis/output/v5/worstCase/Time.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v4.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/v4.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards4_count_1000/NumberofEmptyCells_bar.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/NumberofEmptyCells_bar.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/NumberofEmptyCells_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards9_count_1000/NumberofEmptyCells_bar.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/NumberofEmptyCells_bar.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/NumberofEmptyCells_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards16_count_1000/NumberofEmptyCells_bar.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/NumberofEmptyCells_bar.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/NumberofEmptyCells_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards4_count_1000/NumberofBasicOperations_bar.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/NumberofBasicOperations_bar.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/NumberofBasicOperations_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards9_count_1000/NumberofBasicOperations_bar.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/NumberofBasicOperations_bar.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/NumberofBasicOperations_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards16_count_1000/NumberofBasicOperations_bar.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/NumberofBasicOperations_bar.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/NumberofBasicOperations_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards4_count_1000/RecursionCount_bar.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/RecursionCount_bar.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/RecursionCount_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards9_count_1000/RecursionCount_bar.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/RecursionCount_bar.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/RecursionCount_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards16_count_1000/RecursionCount_bar.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/RecursionCount_bar.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/RecursionCount_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards4_count_1000/Time_bar.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/Time_bar.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/Time_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards9_count_1000/Time_bar.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/Time_bar.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/Time_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards16_count_1000/Time_bar.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/Time_bar.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/Time_bar.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards4_count_1000/NumberofEmptyCells_box.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/NumberofEmptyCells_box.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/NumberofEmptyCells_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards9_count_1000/NumberofEmptyCells_box.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/NumberofEmptyCells_box.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/NumberofEmptyCells_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards16_count_1000/NumberofEmptyCells_box.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/NumberofEmptyCells_box.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/NumberofEmptyCells_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards4_count_1000/NumberofBasicOperations_box.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/NumberofBasicOperations_box.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/NumberofBasicOperations_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards9_count_1000/NumberofBasicOperations_box.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/NumberofBasicOperations_box.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/NumberofBasicOperations_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards16_count_1000/NumberofBasicOperations_box.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/NumberofBasicOperations_box.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/NumberofBasicOperations_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards4_count_1000/RecursionCount_box.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/RecursionCount_box.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/RecursionCount_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards9_count_1000/RecursionCount_box.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/RecursionCount_box.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/RecursionCount_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards16_count_1000/RecursionCount_box.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/RecursionCount_box.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/RecursionCount_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards4_count_1000/Time_box.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/Time_box.png
+INPUT ../dataAnalysis/output/v4_boards4_count_1000/Time_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards9_count_1000/Time_box.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/Time_box.png
+INPUT ../dataAnalysis/output/v4_boards9_count_1000/Time_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards16_count_1000/Time_box.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/Time_box.png
+INPUT ../dataAnalysis/output/v4_boards16_count_1000/Time_box.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards_all/NumberofBasicOperations.png
+INPUT ../dataAnalysis/output/v4_boards_all/NumberofBasicOperations.png
+INPUT ../dataAnalysis/output/v4_boards_all/NumberofBasicOperations.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards_all/RecursionCount.png
+INPUT ../dataAnalysis/output/v4_boards_all/RecursionCount.png
+INPUT ../dataAnalysis/output/v4_boards_all/RecursionCount.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/output/v4_boards_all/Time.png
+INPUT ../dataAnalysis/output/v4_boards_all/Time.png
+INPUT ../dataAnalysis/output/v4_boards_all/Time.png
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.bbl
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.bbl
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/regression.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/../dataAnalysis/generated/regression.tex
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.aux
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.out
+INPUT /Users/michaelbeukman/Google Drive/WITS/2020-Year3-Undergrad/COMS/COMS3005-AAA/assignments/assignment2/text/v3.out
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb

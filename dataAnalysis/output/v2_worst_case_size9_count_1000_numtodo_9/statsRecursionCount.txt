@@ -1,0 +1,8 @@
+
+Slope=0.9367510983403554                
+Intercept=-34570.84749921481                
+R value=0.9988571491485958
+P value=3.72851892975196e-09
+Standard Error=0.018299147611770053
+
+Equation=> y = $Slope * 9^x + intercept
